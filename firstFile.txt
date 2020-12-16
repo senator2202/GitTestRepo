@@ -2,9 +2,9 @@ firstFileLine1 updated in git_1
 firstFileLine2 updated in git_1
 firstFileLine3 updated in git_1
 firstFileLine4 updated in git_1
-firstFileLine5
-firstFileLine6
-firstFileLine7
+firstFileLine5 updated by test-repo in git_1
+firstFileLine6 updated by test-repo in git_1
+firstFileLine7 updated by test-repo in git_1
 firstFileLine8
 firstFileLine9 updated by test-repo-clone in git_1
 firstFileLine10 updated by test-repo-clone in git_1
