@@ -6,5 +6,5 @@ firstFileLine5
 firstFileLine6
 firstFileLine7
 firstFileLine8
-firstFileLine9
-firstFileLine10
+firstFileLine9 updated by test-repo-clone in git_1
+firstFileLine10 updated by test-repo-clone in git_1
