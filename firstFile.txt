@@ -1,5 +1,5 @@
-firstFileLine1
-firstFileLine2
+firstFileLine1 updated in git_1
+firstFileLine2 updated in git_1
 firstFileLine3
 firstFileLine4
 firstFileLine5
