@@ -1,5 +1,7 @@
 secondFileLine1 updated in git_1
 secondFileLine2 updated in git_1
+secondFileLine1 updated by git_2
+secondFileLine2 updated by git_2
 secondFileLine3
 secondFileLine4
 secondFileLine5
