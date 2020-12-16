@@ -1,7 +1,7 @@
 firstFileLine1 updated in git_1
 firstFileLine2 updated in git_1
-firstFileLine3
-firstFileLine4
+firstFileLine3 updated in git_1
+firstFileLine4 updated in git_1
 firstFileLine5
 firstFileLine6
 firstFileLine7
