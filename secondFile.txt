@@ -1,5 +1,5 @@
-secondFileLine1
-secondFileLine2
+secondFileLine1 updated by git_2
+secondFileLine2 updated by git_2
 secondFileLine3
 secondFileLine4
 secondFileLine5
